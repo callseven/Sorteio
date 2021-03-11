@@ -1,5 +1,7 @@
 # Sorteio
 Estudo JS Sorteio
+Kenzie-Academy-Brasil - Bora Codar
+#BoraCodar
 
 App de sorteios
 
